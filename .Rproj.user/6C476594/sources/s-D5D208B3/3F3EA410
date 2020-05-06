@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588738851571.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3F3EA410",
+    "lastKnownWriteTime" : 1588736444,
+    "last_content_update" : 1588736444,
+    "path" : "C:/Users/admin/Desktop/courses/ProgrammingAssignment2-master/cachematrix.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
